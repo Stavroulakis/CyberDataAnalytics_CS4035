@@ -1,0 +1,19 @@
+Each of the task are executed in different notebook files.
+
+Each file can run indepedently.
+
+The datasets have to be in the same folder as the notebook files in order to be able to executed.
+
+For the comparison and bonus task we have produce the necessary csv file (new, sax_prediction) so they can be executed 
+running the other tasks first.
+
+In order to be able to run the files, it is necessary to have install the following packages in the python:
+  seaborn
+  statsmodels.tsa.arima_model
+  statsmodels.api
+  sklearn
+  statsmodels
+  
+The report file contains the report of this assignment. However, each of the notebook files contains reports of each individual
+task. Furthermore in the notebook files all the results are presented, in contrast to report, which contains the most imnportant
+one.
